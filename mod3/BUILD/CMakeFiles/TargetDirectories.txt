@@ -1,0 +1,9 @@
+/home/czars/cmake_tutorials/mod3/BUILD/CMakeFiles/calc.dir
+/home/czars/cmake_tutorials/mod3/BUILD/CMakeFiles/edit_cache.dir
+/home/czars/cmake_tutorials/mod3/BUILD/CMakeFiles/rebuild_cache.dir
+/home/czars/cmake_tutorials/mod3/BUILD/math1/CMakeFiles/math1.dir
+/home/czars/cmake_tutorials/mod3/BUILD/math1/CMakeFiles/edit_cache.dir
+/home/czars/cmake_tutorials/mod3/BUILD/math1/CMakeFiles/rebuild_cache.dir
+/home/czars/cmake_tutorials/mod3/BUILD/print1/CMakeFiles/print1.dir
+/home/czars/cmake_tutorials/mod3/BUILD/print1/CMakeFiles/edit_cache.dir
+/home/czars/cmake_tutorials/mod3/BUILD/print1/CMakeFiles/rebuild_cache.dir
